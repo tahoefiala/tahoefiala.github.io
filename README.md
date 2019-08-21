@@ -4,7 +4,7 @@ Hello World
 
 "Let's get this bread!"
 
-Please visit my [Facebook Page](https://https://www.facebook.com/Masterskibum) to connect with me online.
+Please visit my [Facebook Page](https://www.facebook.com/Masterskibum) to connect with me online.
 
 ## Early Morning Bread Getters
 
