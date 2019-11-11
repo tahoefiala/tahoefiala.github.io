@@ -33,8 +33,8 @@ Chem. 3A/L Teaching Assistant under Prof. Steven Pedersen (2018)
 Chem. 3B/L Teaching Assistant under Dr. Peter Marsden (2017)  
 
 # Connect on the Web    
-[LinkedIn] ()  
-[Facebook] ()  
-[Twitter] ()  
-[Instagram] ()  
+[LinkedIn](https://www.linkedin.com/in/tahoe-fiala-408b56135)  
+[Facebook](https://www.facebook.com/Masterskibum)  
+[Twitter](https://twitter.com/tahoefiala)  
+[Instagram](https://www.instagram.com/tahoefiala/)  
 
