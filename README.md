@@ -18,27 +18,11 @@ Saegebarth Undergraduate Research Fair — The College of Chemistry’s Annual P
 1. April 26th, 2019 "Engineering Self-assembling Instrinsically Disordered Proteins" 
 2. April 20th, 2018 “Rotaxane Probes for Small Molecule Detection Via 129Xe hyperCEST NMR” 
 
-# Teaching Experience
-Chem. 3A/L Teaching Assistant under Dr. Peter Marsden (June 2019 — Aug. 2019)  
-• Laboratory instructor, 1st semester organic chemistry for non-majors  
-• Full teaching responsibilities of a Graduate Student including grading and proctoring  
-Chem. 12A/B Chemistry Scholar under Prof. Anne Baranger and Prof. Felix Fischer (Aug. 2018 — May 2019)  
-• Undergraduate student instructor for advanced organic chemistry for majors  
-• Led three hours of supplementary discussion and held office hours each week  
-• Designed weekly quizzes and review materials  
-• Encouraged the retention of underrepresented student groups    
-Chem. 3A/L Teaching Assistant under Prof. Steven Pedersen (June 2018 — Aug. 2018)    
-• Laboratory instructor, 1st semester organic chemistry for non-majors  
-Chem. 12A Teacher-Scholar under Prof. Anne Baranger (Aug. 2017 — Dec. 2017)  
-• Assistant laboratory instructor, 1st semester organic chemistry for majors  
-• Acted as group leader during weekly pedagogical seminars  
-• Held weekly office hours through Peer Advising Program  
-Chem. 3B/L Teaching Assistant under Dr. Peter Marsden (June 2017 — Aug. 2017)  
-• Laboratory instructor, 2nd semester organic chemistry for non-majors  
-Chem. 4A Teacher-Scholar (Aug. 2016 — Dec. 2016)  
-• Assistant laboratory instructor, general chemistry for majors.  
-Odyssey Learning Company STEM Tutor — Fresno, CA (June 2015 — Aug. 2016)  
-• Tutored Middle and Elementary school students in Algebra, English, and the SAT  
+# Teaching Highlights
+Chem. 3A/L Teaching Assistant under Dr. Peter Marsden (2019)  
+Chem. 12A/B Chemistry Scholar under Prof. Anne Baranger and Prof. Felix Fischer (2018-19)  
+Chem. 3A/L Teaching Assistant under Prof. Steven Pedersen (2018)      
+Chem. 3B/L Teaching Assistant under Dr. Peter Marsden (2017)  
 
 # Connect
 
