@@ -4,10 +4,14 @@
 
 # Bio
 I am currently a Fulbright Research Fellow in Berlin, Germany. Starting in the fall of 2020, I will be a Chemistry PhD student at the University of Wisconsin, Madison.  
+  
 I graduated from the University of California, Berkeley, in the spring of 2019 with a B.S. in Chemistry. During my undergraduate career, I was a member of Professor Matthew B. Francis' Laboratory where I researched organic synthesis and chemical biology projects. My work in the lab resulted in two publications in JACS and Angewandte Chemie.  
-My research interests is primarily organic chemistry, with a focus on physical organic methods and an interest in drug discovery.  
+  
+My research interests is primarily organic chemistry, with a focus on physical organic methods and an interest in drug discovery. 
+  
 Feel free to contact me at tahoe (dot) fiala (at) fulbrightmail (dot) org.  
-Please connect with me on the web through social media!    
+
+Find my CV [here](tahoe fiala CV.pdf)
 
 # Publications
 1. Klass, S. H.; Truxal, A. E.; Fiala, T. A.; Kelly, J.; Nguyen, D.; Finbloom, J. A.; Wemmer, D. E.; Pines, A.;
@@ -28,5 +32,9 @@ Chem. 12A/B Chemistry Scholar under Prof. Anne Baranger and Prof. Felix Fischer 
 Chem. 3A/L Teaching Assistant under Prof. Steven Pedersen (2018)      
 Chem. 3B/L Teaching Assistant under Dr. Peter Marsden (2017)  
 
-# Connect
+# Connect on the Web    
+[LinkedIn] ()  
+[Facebook] ()  
+[Twitter] ()  
+[Instagram] ()  
 
