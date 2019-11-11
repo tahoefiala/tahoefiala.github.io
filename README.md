@@ -1,4 +1,8 @@
-# LGTB
+# Bio
+# Publications
+# Presentations
+# Teaching
+# Connect
 
 Hello World
 
