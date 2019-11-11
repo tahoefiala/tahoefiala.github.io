@@ -1,4 +1,4 @@
-<img src="tahoe.jpeg" width="200">
+<img src="tahoe.jpeg" width="200">  
 # Bio
 I am currently a Fulbright Research Fellow in Berlin, Germany. Starting in the fall of 2020, I will be a Chemistry PhD student at the University of Wisconsin, Madison.  
 I graduated from the University of California, Berkeley, in the spring of 2019 with a B.S. in Chemistry. During my undergraduate career, I was a member of Professor Matthew B. Francis' Laboratory where I researched organic synthesis and chemical biology projects. My work in the lab resulted in two publications in JACS and Angewandte Chemie.  
