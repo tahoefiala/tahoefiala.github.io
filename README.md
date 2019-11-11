@@ -11,7 +11,7 @@ My research interests is primarily organic chemistry, with a focus on physical o
   
 Feel free to contact me at tahoe (dot) fiala (at) fulbrightmail (dot) org.  
 
-Find my CV [here](cv.pdf)
+[Check out my CV!](cv.pdf)
 
 # Publications
 1. Klass, S. H.; Truxal, A. E.; Fiala, T. A.; Kelly, J.; Nguyen, D.; Finbloom, J. A.; Wemmer, D. E.; Pines, A.;
