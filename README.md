@@ -1,4 +1,6 @@
-<img src="tahoe.jpeg" width="200">  
+<p align="center">
+  <img src="tahoe.jpeg" width="200">  
+</p>
 
 # Bio
 I am currently a Fulbright Research Fellow in Berlin, Germany. Starting in the fall of 2020, I will be a Chemistry PhD student at the University of Wisconsin, Madison.  
