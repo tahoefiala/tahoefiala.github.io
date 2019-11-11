@@ -23,7 +23,7 @@ Francis, M. B. Self-Assembling Micelles Based on an Intrinsically Disordered Pro
 
 # Presentations
 Saegebarth Undergraduate Research Fair — The College of Chemistry’s Annual Poster Presentation
-1. April 26th, 2019 "Engineering Self-assembling Instrinsically Disordered Proteins" 
+1. April 26th, 2019 "Engineering Self-assembling Instrinsically Disordered Proteins" [Poster](poster.pdf)
 2. April 20th, 2018 “Rotaxane Probes for Small Molecule Detection Via 129Xe hyperCEST NMR” 
 
 # Teaching Highlights
