@@ -8,10 +8,10 @@ Please connect with me on the web through social media!
 # Publications
 1. Klass, S. H.; Truxal, A. E.; Fiala, T. A.; Kelly, J.; Nguyen, D.; Finbloom, J. A.; Wemmer, D. E.; Pines, A.;
 Francis, M. B. Rotaxane Probes for the Detection of Hydrogen Peroxide by 129Xe HyperCEST NMR
-Spectroscopy., Angew. Chem. Int. Ed., 2019, 58 (29), 9948–9953. https://doi.org/10.1002/anie.201903045.
+Spectroscopy., Angew. Chem. Int. Ed., 2019, 58 (29), 9948–9953. [DOI](https://doi.org/10.1002/anie.201903045)
 2. Klass, S. H.; Smith, M. J.; Fiala, T. A.; Lee, J. P.; Omole, A. O.; Han, B.-G.; Downing, K. H.; Kumar, S.;
 Francis, M. B. Self-Assembling Micelles Based on an Intrinsically Disordered Protein Domain., J. A. C. S., 2019,
-141 (10), 4291–4299. https://doi.org/10.1021/jacs.8b10688.
+141 (10), 4291–4299. [DOI](https://doi.org/10.1021/jacs.8b10688)
 
 # Presentations
 Saegebarth Undergraduate Research Fair — The College of Chemistry’s Annual Poster Presentation
