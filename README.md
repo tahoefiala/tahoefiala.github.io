@@ -34,7 +34,7 @@ Chem. 3B/L Teaching Assistant under Dr. Peter Marsden (2017)
 
 # Connect on the Web    
 [LinkedIn](https://www.linkedin.com/in/tahoe-fiala-408b56135)  
-[Facebook](https://www.facebook.com/Masterskibum)  
+[Facebook](https://www.facebook.com/tahoefiala)  
 [Twitter](https://twitter.com/tahoefiala)  
 [Instagram](https://www.instagram.com/tahoefiala/)  
 
