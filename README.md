@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tahoe.jpeg" width="200">  
+  <img src="000 main.jpg" width="400">  
 </p>
 
 # Bio
