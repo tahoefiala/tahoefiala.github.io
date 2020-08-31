@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="000 main.jpeg" width="200">  
+  <img src="000 main.jpg" width="400">  
 </p>
 
 # Bio
